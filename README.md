@@ -12,16 +12,9 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 
 1. **Analisar Requisitos:** Trabalhar em conjunto para levantar os requisitos necessários para o sistema.
 2. **Modelar Banco de Dados:** Criar um modelo conceitual, lógico e físico para armazenar todas as informações necessárias para o sistema.
-3. **Implementar Consultas SQL:** Desenvolver queries SQL para manipulação dos dados do sistema de empréstimos.
 
 ---
 
-## Próximos Passos
+## 1 - Levantamento de requisitos
 
-O primeiro passo será realizar o levantamento de requisitos detalhado e começar a construir a modelagem conceitual com base nos dados necessários para o sistema. A sessão de levantamento de requisitos será feita de forma colaborativa com os alunos, permitindo a descoberta das funcionalidades do sistema.
-
----
-
-## Notas
-
-Este estudo de caso será construído em etapas, desde o levantamento de requisitos até a criação do banco de dados. O foco será na modelagem e estruturação do banco, sem a necessidade de desenvolvimento de uma aplicação.
+O primeiro passo será realizar o levantamento de requisitos detalhado para  ajudar na construção da modelagem conceitual. A sessão de levantamento de requisitos será feita de forma colaborativa com os alunos, permitindo a descoberta das funcionalidades do sistema. Para isso vamos criar as perguntas que usaremos na reunião junto o cliente.
