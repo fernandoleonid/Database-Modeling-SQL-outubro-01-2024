@@ -11,7 +11,7 @@ Os alunos devem colaborar no levantamento de requisitos com base nas necessidade
 Com este estudo de caso, os alunos deverão ser capazes de:
 
 1. **Analisar Requisitos:** Trabalhar em conjunto para levantar os requisitos necessários para o sistema.
-2. **Modelar Banco de Dados:** Criar um modelo conceitual, lógico e físico para armazenar todas as informações necessárias para o sistema.
+2. **Modelar Banco de Dados:** Criar um modelo *conceitual, *lógico e físico* para armazenar todas as informações necessárias para o sistema.
 
 ---
 
