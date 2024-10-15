@@ -23,11 +23,11 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 2. **Como funcionará o sistema de assinatura dos usuários?**
    - *Resposta*: Os usuários precisarão adquirir uma assinatura mensal ou anual para ter acesso ao conteúdo. A assinatura será renovada automaticamente, e o sistema deve controlar a validade da assinatura.
 3. **Quantos dispositivos podem acessar o conteúdo ao mesmo tempo com uma única assinatura?**
-Resposta: No momento, cada usuário pode acessar o conteúdo em apenas um único dispositivo ao mesmo tempo.
+   - *Resposta*: No momento, cada usuário pode acessar o conteúdo em apenas um único dispositivo ao mesmo tempo.
 
 4. **Há alguma limitação quanto ao número de conteúdos que um usuário pode acessar por vez?**
    - *Resposta*: Não há limite para o número de conteúdos, desde que seja dentro dos dispositivos permitidos e que o usuário possua uma assinatura ativa.
-  
+  ****
 5. **Quais informações serão armazenadas sobre os livros digitais e audiolivros?**
    - *Resposta*: Precisamos armazenar o título, autor, tipo de conteúdo (e-book ou audiolivro), gênero, número de páginas ou duração.
 
