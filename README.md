@@ -77,4 +77,8 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 | RNF10 | Integração com sistema de pagamento         | Deve haver integração com serviços de pagamento para garantir a renovação automática de assinaturas.           |
 
 ## 2 - Modelo Conceitual
+- Turma 1
 ![](./mer.png)
+
+- Turma 2
+![](./mer2.png)
