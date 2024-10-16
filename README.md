@@ -75,3 +75,6 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 | RNF8 | Manutenção e atualização                    | O sistema deve permitir atualizações frequentes sem interrupção dos serviços para os usuários.                 |
 | RNF9 | Auditoria de acessos                        | O sistema deve registrar logs de acessos e ações dos usuários para fins de auditoria e segurança.              |
 | RNF10 | Integração com sistema de pagamento         | Deve haver integração com serviços de pagamento para garantir a renovação automática de assinaturas.           |
+
+## 2 - Modelo Conceitual
+![](./mer.png)
