@@ -85,3 +85,88 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 
 ## 2 - Modelo lógico
 ![](./der.png)
+
+## 3 - Modelo físico
+~~~SQL
+create database livrocerto;
+use livrocerto;
+
+create table endereco (
+	id_endereco integer auto_increment primary key,
+    logradouro varchar(100),
+    bairro varchar(100),
+    numero varchar(100),
+    cep varchar(8)
+);
+
+create table usuario (
+	id_usuario integer auto_increment primary key,
+    nome varchar(100) not null,
+    email varchar(100) not null,
+    telefone varchar(100),
+    id_endereco integer,
+    foreign key (id_endereco) references endereco(id_endereco) 
+);
+
+CREATE TABLE CONTEUDO (
+  id_conteudo INTEGER auto_increment PRIMARY KEY,
+  titulo VARCHAR(100),
+  autor VARCHAR(100),
+  genero VARCHAR(100)
+);
+
+CREATE TABLE conteudo_usuario (
+  id_conteudo_usuario INTEGER PRIMARY KEY,
+  id_conteudo INTEGER,
+  id_usuario INTEGER,
+  FOREIGN KEY (id_conteudo) REFERENCES CONTEUDO(id_conteudo),
+  FOREIGN KEY (id_usuario) REFERENCES USUARIO(id_usuario)
+);
+
+CREATE TABLE ASSINATURA (
+  id_assinatura INTEGER auto_increment PRIMARY KEY,
+  tipo VARCHAR(100),
+  status BOOLEAN,
+  id_usuario INTEGER,
+  FOREIGN KEY (id_usuario) REFERENCES USUARIO(id_usuario)
+);
+
+insert into 
+	endereco (logradouro, bairro, numero, cep)
+values
+	('rua A', 'Jd. Villaca', '123','12345678'),
+    ('Av. do patos', 'centro', '321', '8764321');
+    
+insert into
+	usuario (nome, email, telefone, id_endereco)
+values
+	('maria', 'maria@gmail.com', '1234567', 1),
+    ('pedro', 'pedro@yahoo.com.br', '767888', 2);
+    
+INSERT INTO 
+	CONTEUDO (titulo, autor, genero) 
+VALUES
+	('Aventuras na Floresta', 'João das Neves', 'Fantasia'),
+	('Mistério no Museu', 'Ana Maria', 'Suspense');
+    
+INSERT INTO 
+	conteudo_usuario (id_conteudo_usuario, id_conteudo, id_usuario) 
+VALUES
+	(1, 1, 1),
+	(2, 2, 2); 
+    
+INSERT INTO ASSINATURA 
+	(tipo, status, id_usuario) 
+VALUES 
+	('anual', true, 1),
+	('mensal', false, 2);
+
+select * from endereco;
+select * from usuario;
+select * from CONTEUDO;
+select * from conteudo_usuario;
+select * from assinatura;
+
+
+show tables;
+~~~
