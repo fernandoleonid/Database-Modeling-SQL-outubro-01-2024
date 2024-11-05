@@ -82,3 +82,6 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 
 - Turma 2
 ![](./mer2.png)
+
+## 2 - Modelo lógico
+![](./der.png)
