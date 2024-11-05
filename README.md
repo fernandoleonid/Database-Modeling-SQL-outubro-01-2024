@@ -146,7 +146,7 @@ values
 INSERT INTO 
 	CONTEUDO (titulo, autor, genero) 
 VALUES
-	('Aventuras na Floresta', 'João das Neves', 'Fantasia'),
+	('Aventuras na Floresta', 'Jo das Neves', 'Fantasia'),
 	('Mistério no Museu', 'Ana Maria', 'Suspense');
     
 INSERT INTO 
@@ -166,7 +166,6 @@ select * from usuario;
 select * from CONTEUDO;
 select * from conteudo_usuario;
 select * from assinatura;
-
 
 show tables;
 ~~~
