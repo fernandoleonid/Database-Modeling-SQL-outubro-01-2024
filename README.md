@@ -27,7 +27,7 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 
 4. **Há alguma limitação quanto ao número de conteúdos que um usuário pode acessar por vez?**
    - *Resposta*: Não há limite para o número de conteúdos, desde que seja dentro dos dispositivos permitidos e que o usuário possua uma assinatura ativa.
-  ****
+
 5. **Quais informações serão armazenadas sobre os livros digitais e audiolivros?**
    - *Resposta*: Precisamos armazenar o título, autor, tipo de conteúdo (e-book ou audiolivro), gênero, número de páginas ou duração.
 
