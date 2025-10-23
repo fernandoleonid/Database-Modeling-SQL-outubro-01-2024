@@ -11,9 +11,15 @@ Os alunos devem colaborar no levantamento de requisitos com base nas necessidade
 Com este estudo de caso, os alunos deverão ser capazes de:
 
 1. **Analisar Requisitos:** Trabalhar em conjunto para levantar os requisitos necessários para o sistema.
-2. **Modelar Banco de Dados:** Criar um modelo *conceitual, *lógico e físico* para armazenar todas as informações necessárias para o sistema.
+2. **Modelar Banco de Dados:** Criar um modelo *conceitual, lógico e físico* para armazenar todas as informações necessárias para o sistema.
 
 ---
+
+## Material de Apoio
+* [Como instalar o BRModelo](https://youtu.be/i_gNCwXM6pk)
+* [Como instalar o MySQL e o Workbench no Windows](https://youtu.be/IEUgVwjXF0o)
+* [Como instalar o MySQL e o Workbench no Ubuntu](https://youtu.be/Uuw4KPiVATc)
+* [Como criar um banco de dados na AWS RDS](https://youtu.be/-5HyrZD7Wys)
 
 ## 1 - Levantamento de **requisitos**
 
