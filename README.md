@@ -46,6 +46,7 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 10. **O sistema precisa limitar o tempo de inatividade antes de desconectar automaticamente o usuário?**
     - *Resposta*: Sim, por razões de segurança, o sistema deve desconectar automaticamente após 30 minutos de inatividade.
 
+<!--
 ### Requisitos Funcionais
 
 | ID  | Requisito                                                                                 | Descrição                                                                                                              |
@@ -75,7 +76,7 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 | RNF8 | Manutenção e atualização                    | O sistema deve permitir atualizações frequentes sem interrupção dos serviços para os usuários.                 |
 | RNF9 | Auditoria de acessos                        | O sistema deve registrar logs de acessos e ações dos usuários para fins de auditoria e segurança.              |
 | RNF10 | Integração com sistema de pagamento         | Deve haver integração com serviços de pagamento para garantir a renovação automática de assinaturas.           |
-
+-->
 ## 2 - Modelo Conceitual
 - Turma 1
 ![](./mer.png)
