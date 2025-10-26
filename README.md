@@ -56,13 +56,13 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 
 ## 2 - Modelo Conceitual
 - Turma 1
-![](./img/mer.png)
+![](./img/mer.jpg)
 
 - Turma 2
-![](./img/mer2.png)
+![](./img/mer2.jpg)
 
 ## 2 - Modelo lógico
-![](./img/der.png)
+![](./img/der.jpg)
 
 ## 3 - Modelo físico
 
