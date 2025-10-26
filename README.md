@@ -85,13 +85,13 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 -->
 ## 2 - Modelo Conceitual
 - Turma 1
-![](./mer.png)
+![](./img/mer.png)"
 
 - Turma 2
-![](./mer2.png)
+![](./img/mer2.png)
 
 ## 2 - Modelo lógico
-![](./der.png)
+![](./img/der.png)
 
 ## 3 - Modelo físico
 ~~~SQL
