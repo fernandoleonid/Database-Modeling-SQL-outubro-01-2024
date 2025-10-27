@@ -57,6 +57,7 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 ## 2 - Modelo Conceitual
 - Turma 1
 ![](https://imgur.com/k3zaGGI)
+<img src="https://imgur.com/k3zaGGI">
 
 - Turma 2
 ![](https://imgur.com/tU2W28e)
